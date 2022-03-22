@@ -51,4 +51,9 @@ if (page.img) {
         background-color: <%= page["background-color"] %>
     }
 <% } %>
+<% if (page["background-dark-color"]) { %>
+    body.dark .card{
+        background-color: <%= page["background-dark-color"] %>
+    }
+<% } %>
 </style>

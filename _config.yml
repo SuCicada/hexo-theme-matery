@@ -674,7 +674,7 @@ jsDelivr:
 # 网站背景图
 background:
   enable: true
-  url: /images/background.jpg
+  url: /images/background.png
 
 # 说说 https://artitalk.js.org/
 artitalk:
