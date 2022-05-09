@@ -1,6 +1,7 @@
 ## 改动项：
 - 针对原生代码
   - 图片
+    - [background.ejs](layout/_partial/background.ejs) 网站背景 
     - [bg-cover-content.ejs](layout/_partial/bg-cover-content.ejs) 切换 banner 图
     - [post-cover.ejs](layout/_partial/post-cover.ejs) post 支持自定义背景
   - 颜色 
